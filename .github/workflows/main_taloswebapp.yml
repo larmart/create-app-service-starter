@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TalosWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AB16017BB1B4EB39C9F001B0A650F3A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70514265459E4E44926037DD52EC1790 }}
